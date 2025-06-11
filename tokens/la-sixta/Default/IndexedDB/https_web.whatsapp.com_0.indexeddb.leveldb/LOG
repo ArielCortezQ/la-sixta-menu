@@ -1,0 +1,19 @@
+2025/06/11-12:55:01.282 40cc Reusing MANIFEST C:\Users\Santiago Ariel\Desktop\la-sixta-bot\tokens\la-sixta\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/11-12:55:01.283 40cc Recovering log #162
+2025/06/11-12:55:01.307 40cc Reusing old log C:\Users\Santiago Ariel\Desktop\la-sixta-bot\tokens\la-sixta\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000162.log 
+2025/06/11-12:55:02.807 40cc Level-0 table #170: started
+2025/06/11-12:55:02.816 40cc Level-0 table #170: 440631 bytes OK
+2025/06/11-12:55:02.818 40cc Delete type=0 #162
+2025/06/11-12:55:02.819 40cc Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/11-12:55:04.424 38a0 Compacting 1@1 + 4@2 files
+2025/06/11-12:55:04.476 38a0 Generated table #171@1: 49552 keys, 2210725 bytes
+2025/06/11-12:55:04.526 38a0 Generated table #172@1: 30589 keys, 2192000 bytes
+2025/06/11-12:55:04.574 38a0 Generated table #173@1: 26680 keys, 2216471 bytes
+2025/06/11-12:55:04.622 38a0 Generated table #174@1: 62222 keys, 2030226 bytes
+2025/06/11-12:55:04.622 38a0 Compacted 1@1 + 4@2 files => 8649422 bytes
+2025/06/11-12:55:04.622 38a0 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/06/11-12:55:04.623 38a0 Delete type=2 #164
+2025/06/11-12:55:04.623 38a0 Delete type=2 #165
+2025/06/11-12:55:04.623 38a0 Delete type=2 #166
+2025/06/11-12:55:04.623 38a0 Delete type=2 #167
+2025/06/11-12:55:04.623 38a0 Delete type=2 #170
